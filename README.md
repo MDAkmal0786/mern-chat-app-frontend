@@ -1,8 +1,15 @@
-# React + Vite
+# A REAL TIME CHAT APP
+![Screenshot 2024-08-28 232051](https://github.com/user-attachments/assets/abb019dc-e14c-4d4e-851c-ff51bd075477)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MADE WITH MERN  + TAILWIND  +  DAISYUI + SOCKET.IO**
 
-Currently, two official plugins are available:
+This project allow **users** to login.  
+See all of the users and **ONLINE USERS** as well.
+Real time chat with any of the users 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Add .env file with
+VITE_SERVER=** backend route **
+# important commands
+$npm install (for node modules).
+
+$npm run dev to start
