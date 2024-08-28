@@ -98,3 +98,7 @@ export default App ;
 // node modules will be downloades on {npm insatll} 
 
 
+// while deployed add env keys
+// by default build commmand == 0)npm run build  1)npm insatll 2) npm run dev . to start 
+
+

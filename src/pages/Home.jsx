@@ -8,7 +8,7 @@ const Home = () => {
   let receiver=useSelector( (state)=>state.receiverReducer.receiver ) ;
  
   return (
-    <div className='flex flex-wrap justify-center h-full overflow-x-auto gap-1 sm:flex-nowrap   rounded-lg '>
+    <div className='flex flex-wrap justify-center h-full overflow-x-auto gap-8 sm:flex-nowrap scrollbar-hide  rounded-lg '>
 <Sidebar/>{
   receiver?<Chatbar/>:<NoChat/>
 
